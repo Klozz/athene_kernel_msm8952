@@ -29,6 +29,7 @@
 
 #include "mdss_dsi.h"
 #include "mdss_dba_utils.h"
+#include "mdss_dropbox.h"
 
 #include "mdss_dropbox.h"
 #include "mdss_fb.h"
