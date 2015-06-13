@@ -1,3 +1,7 @@
+
+#ALESSAPLUG
+obj-$(CONFIG_ALESSA_PLUG) += Alessa_Plug.o
+
 obj-y += io.o dma.o memory.o
 ifndef CONFIG_ARM_ARCH_TIMER
 obj-y += timer.o
